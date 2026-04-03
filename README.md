@@ -209,8 +209,8 @@ Please ensure your code follows existing style conventions and includes appropri
 
 | Name | Role |
 |---|---|
-| [Sonu Tiwari](https://github.com/Sonut05) | Project Lead & ML Engineer |
-| *Your Name* | Frontend / Backend Developer |
+| [Sonu Tiwari ,Sapan Gandhi](https://github.com/Sonut05) | Project Lead & ML Engineer |
+| *Sapan Gandhi* | Frontend / Backend Developer |
 
 Want to contribute? See the [Contributing](#-contributing) section above.
 
