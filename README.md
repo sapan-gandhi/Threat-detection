@@ -209,7 +209,7 @@ Please ensure your code follows existing style conventions and includes appropri
 
 | Name | Role |
 |---|---|
-| [ Sapan Gandhi](https://github.com/sapan_gandhi) | Project Lead & ML Engineer |
+| [ Sapan Gandhi](https://github.com/sapan-gandhi) | Project Lead & ML Engineer |
 | *Sapan Gandhi* | Frontend |
 |Sonu Tiwari| Backend Developer |
 
